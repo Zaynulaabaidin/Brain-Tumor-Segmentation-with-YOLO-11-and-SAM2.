@@ -5,14 +5,14 @@ This project combines YOLO for brain tumor detection and SAM for precise segment
 This project aims to detect and segment brain tumors from MRI images using a combination of object detection (YOLO) and segmentation (SAM2) techniques. The model identifies tumor regions accurately, which can assist medical professionals in diagnosis and treatment planning.
 
 #Table of Contents
-Technologies Used
-Installation Instructions
-Dataset
+- Technologies Used
+- Installation Instructions
+- Dataset
 
 # Technologies Used
-Python 3.13
-YOLOv11 — for object detection
-Segment Anything Model 2 (SAM2) — for image segmentation
-PyTorch — for deep learning model training
-Ultralytics — for YOLOv11 integration
-Google Colab
+- Python 3.13
+- YOLOv11 — for object detection
+- Segment Anything Model 2 (SAM2) — for image segmentation
+- PyTorch — for deep learning model training
+- Ultralytics — for YOLOv11 integration
+- Google Colab
